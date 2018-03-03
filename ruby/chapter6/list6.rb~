@@ -1,5 +1,0 @@
-#timesメソッド　同じ処理を繰り返す
-
-7.times do
-  puts "いちちちちちｔ"
-end
